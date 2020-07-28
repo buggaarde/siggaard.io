@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Software Engineer"
+  company = "DanaDynamics"
+  company_url = "danadynamics.com"
+  location = "Svendborg"
+  date_start = "2018-11-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  We are building first-class general-purpose autonomy systems for maritime vessel.
   
-  * Analysing
-  * Modelling
-  * Deploying
+  We work with Go, C++, NATS, Docker and mbed RTOS.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Software developer"
+  company = "BEC"
+  company_url = "bec.dk"
+  location = "Roskilde"
+  date_start = "2017-08-01"
+  date_end = "2018-10-31"
+  description = """
+  I worked on a very large data collection effort, initiated by Nationalbanken, called Kreditregistret. My responsibilities largely consisted of identifying and building the tooling necessary for such a task to be possible in the first place.
+  
+  
+  I worked with Python, PowerShell, SQL and PowerCenter.
+  
+  
+  My personal highlights from my time at BEC:
+  * I built an XML-generator in PowerShell. It turned out to be 10x faster than existing solutions, and this speed was absolutely crucial for the last step in the collection process.
+  * Unprompted, I built a generic ETL-generator in python. This tool enabled all the flexibility from generic programming languages to be combined with the more traditional GUI-approach to ETL.
+  """
 
 +++
