@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   
   My personal highlights from my time at BEC:
   * I built an XML-generator in PowerShell. It turned out to be 10x faster than existing solutions, and this speed was absolutely crucial for the last step in the collection process.
-  * Unprompted, I built a generic ETL-generator in python. This tool enabled all the flexibility from generic programming languages to be combined with the more traditional GUI-approach to ETL.
+  * I built a generic ETL-generator in python. This tool enabled all the flexibility from generic programming languages to be combined with the more traditional GUI-approach to ETL.
   """
 
 +++
