@@ -15,7 +15,7 @@ role: Software Engineer
 # Organizations/Affiliations
 organizations:
 - name: DanaDynamics
-  url: "danadynamics.com"
+  url: "https://www.danadynamics.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -59,4 +59,4 @@ email: ""
 user_groups: []
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I've been interested in software engineering since university, where I taught myself how to code. I then realized the potential in machine learning and I've tried to apply the techniques to real-world problems ever since.
