@@ -20,12 +20,12 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Software Engineer"
   company = "DanaDynamics"
-  company_url = "danadynamics.com"
+  company_url = "https://www.danadynamics.com"
   location = "Svendborg"
   date_start = "2018-11-01"
   date_end = ""
   description = """
-  We are building first-class general-purpose autonomy systems for maritime vessel.
+  We are building first-class general-purpose autonomy systems for maritime vessel. My focus is on AI and navigation.
   
   We work with Go, C++, NATS, Docker and mbed RTOS.
   """
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Software developer"
   company = "BEC"
-  company_url = "bec.dk"
+  company_url = "https://www.bec.dk"
   location = "Roskilde"
   date_start = "2017-08-01"
   date_end = "2018-10-31"
